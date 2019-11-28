@@ -1,0 +1,17 @@
+.game-grid {
+  margin-top: 75px;
+  display: grid;
+  grid-auto-columns: 150px;
+  grid-column-gap: 50px;
+  grid-auto-rows: 200px;
+  grid-row-gap: 50px;
+  justify-content: center;
+}
+
+.game-over {
+  text-align: center;
+  color: #fff;
+  font-weight: normal;
+  font-size: 3.5rem;
+  margin-top: 200px;
+}
