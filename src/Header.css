@@ -1,0 +1,59 @@
+.back-button {
+  max-width: 300px;
+  max-height: 50px;
+  border-radius: 5px 5px;
+  border-width: 0px;
+  background-color: #fff;
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+  font-family: "Montserrat", sans-serif;
+  margin-right: 75px;
+}
+
+.back-button:hover {
+  background-color: rgb(236, 236, 236);
+  cursor: pointer;
+}
+
+.reset-button {
+  max-width: 300px;
+  max-height: 50px;
+  border-radius: 5px 5px;
+  border-width: 0px;
+  background-color: #fff;
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+  font-family: "Montserrat", sans-serif;
+  margin-right: 75px;
+}
+
+.reset-button:hover {
+  background-color: rgb(255, 0, 0);
+  color: #fff;
+  cursor: pointer;
+}
+
+.inline {
+  display: inline;
+}
+
+.timer {
+  text-align: center;
+  color: #fff;
+  font-weight: normal;
+  font-size: 1.5rem;
+  margin: 0px;
+  margin-left: 75px;
+  display: inline;
+}
+
+.title-bar {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.red {
+  color: red;
+}
