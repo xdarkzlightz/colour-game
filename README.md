@@ -28,6 +28,6 @@ Put the build behind a reverse proxy like nginx
 
 ## Screenshots
 
-![Main Menu](https://github.com/xdarkzlightz/colour-game/tree/master/images/colour-game-1.png)
+![Main Menu](https://i.ibb.co/DbSSP8G/colour-game-1.png)
 
-![Game](https://github.com/xdarkzlightz/colour-game/tree/master/images/colour-game-2.png)
+![Game](https://i.ibb.co/R9pX8sf/colour-game-2.png)
