@@ -1,6 +1,6 @@
 {
   "name": "colourgame",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "pretty-ms": "^5.1.0",
